@@ -19,3 +19,6 @@ In the future, I will also upload notebooks of models such as from scratch U-Net
 - **Validation Dice Score:** ~94%
 - **Validation Loss:** ~0.17
 
+- **Test Dice Score:** ~94%
+- **Test IoU:** ~89%
+
